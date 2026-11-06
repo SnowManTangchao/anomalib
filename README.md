@@ -4,6 +4,8 @@
 
 **A library for benchmarking, developing and deploying deep learning anomaly detection algorithms**
 
+中文说明见 [README.zh-CN.md](README.zh-CN.md)。
+
 ---
 
 [Key Features](#key-features) •
